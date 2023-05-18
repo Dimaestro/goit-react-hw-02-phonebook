@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const Filter = ({filter, onChange}) => {
   return (
     <div className={styles.container}>
-      <label>
+      <label className={styles.label}>
         Find contacts by name
         <input
           className={styles.input}
