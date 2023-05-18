@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
